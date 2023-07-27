@@ -8,3 +8,4 @@ Languages/Tools:
 
 ![image](https://github.com/BolshoeSpasibo/BolshoeSpasibo/assets/78027962/cebfb3c7-e255-4dac-804c-1386d1addaea)
 
+![image](https://github.com/BolshoeSpasibo/BolshoeSpasibo/assets/78027962/ccd54ccd-06f8-4630-a693-8e1b832d8624)
