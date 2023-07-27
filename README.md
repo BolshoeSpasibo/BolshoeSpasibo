@@ -20,11 +20,5 @@ Languages/Tools:
 
 ![image](https://github.com/BolshoeSpasibo/BolshoeSpasibo/assets/78027962/a4b95b2b-7c3e-4eb6-b167-69b6f4a8761d)
 
+fav ide:![image](https://github.com/BolshoeSpasibo/BolshoeSpasibo/assets/78027962/bfaa151d-9cb9-4633-a790-88ffe1cef30a)
 
-![image](https://github.com/BolshoeSpasibo/BolshoeSpasibo/assets/78027962/ccd54ccd-06f8-4630-a693-8e1b832d8624)
-
-![image](https://github.com/BolshoeSpasibo/BolshoeSpasibo/assets/78027962/e8d1b1b3-b7ec-403d-ac4a-e1632c6c0be5)
-
-![image](https://github.com/BolshoeSpasibo/BolshoeSpasibo/assets/78027962/c08ce6cc-43b2-4700-84a7-131baae7d501)
-
-![image](https://github.com/BolshoeSpasibo/BolshoeSpasibo/assets/78027962/f28dba21-5d3b-463b-b1ba-8f76295f8def)
