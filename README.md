@@ -1,5 +1,6 @@
 # Hi there 👋, I,m Sergey Chebonenko
-- 🌱 I’m currently learning YII2 (yiiframework.com)
+- 🌱 I’m currently learning YII2 (yiiframework.com) ![image](https://github.com/BolshoeSpasibo/BolshoeSpasibo/assets/78027962/538f5a84-a847-4b56-acbe-9416f9d82a45)
+
 - 📫 How to reach me: 4ebser1@gmail.com 
 
 # 🐰GameDev for myself
