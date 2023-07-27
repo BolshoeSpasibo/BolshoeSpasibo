@@ -1,6 +1,6 @@
 ### Hi there 👋, I,m Sergey Chebonenko
 - 🌱 I’m currently learning YII2 (yiiframework.com)
-- 📫 How to reach me: 4ebser1@gmail.com
+- 📫 How to reach me: 4ebser1@gmail.com 
 
 Languages/Tools:
 
@@ -20,5 +20,5 @@ Languages/Tools:
 
 ![image](https://github.com/BolshoeSpasibo/BolshoeSpasibo/assets/78027962/a4b95b2b-7c3e-4eb6-b167-69b6f4a8761d)
 
-fav ide:![image](https://github.com/BolshoeSpasibo/BolshoeSpasibo/assets/78027962/bfaa151d-9cb9-4633-a790-88ffe1cef30a)
+❤fav IDE:![image](https://github.com/BolshoeSpasibo/BolshoeSpasibo/assets/78027962/bfaa151d-9cb9-4633-a790-88ffe1cef30a)
 
