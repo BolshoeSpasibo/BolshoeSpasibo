@@ -15,4 +15,4 @@ Languages/Tools:
 
 ❤fav IDE:![image](https://github.com/BolshoeSpasibo/BolshoeSpasibo/assets/78027962/bfaa151d-9cb9-4633-a790-88ffe1cef30a)
 
-![image](https://github.com/BolshoeSpasibo/BolshoeSpasibo/assets/78027962/9f436384-5c2d-4208-9068-c164aae9a162)
+![image](https://github.com/BolshoeSpasibo/BolshoeSpasibo/assets/78027962/e90d03fd-5a44-41a8-96c5-714e2321263f)
