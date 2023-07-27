@@ -9,3 +9,5 @@ Languages/Tools:
 ![image](https://github.com/BolshoeSpasibo/BolshoeSpasibo/assets/78027962/cebfb3c7-e255-4dac-804c-1386d1addaea)
 
 ![image](https://github.com/BolshoeSpasibo/BolshoeSpasibo/assets/78027962/ccd54ccd-06f8-4630-a693-8e1b832d8624)
+
+![image](https://github.com/BolshoeSpasibo/BolshoeSpasibo/assets/78027962/e8d1b1b3-b7ec-403d-ac4a-e1632c6c0be5)
