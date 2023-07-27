@@ -12,11 +12,3 @@
 
 # 💻Tech Stack
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=plastic&logo=apache&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=plastic&logo=mysql&logoColor=white)
-
----
-[![](https://visitcount.itsvg.in/api?id=BolshoeSpasibo&icon=0&color=0)](https://visitcount.itsvg.in)
-
-
-❤fav IDE:![image](https://github.com/BolshoeSpasibo/BolshoeSpasibo/assets/78027962/bfaa151d-9cb9-4633-a790-88ffe1cef30a)
-
-godot - ![image](https://github.com/BolshoeSpasibo/BolshoeSpasibo/assets/78027962/97fc053f-82d9-4ba6-9036-3287572a1a4c)
