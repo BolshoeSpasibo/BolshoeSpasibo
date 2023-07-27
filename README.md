@@ -1,4 +1,4 @@
-### Hi there 👋, I,m Sergey Chebonenko
+# Hi there 👋, I,m Sergey Chebonenko
 - 🌱 I’m currently learning YII2 (yiiframework.com)
 - 📫 How to reach me: 4ebser1@gmail.com 
 
