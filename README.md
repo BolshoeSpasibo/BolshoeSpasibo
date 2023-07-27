@@ -7,16 +7,6 @@
 ![image](https://github.com/BolshoeSpasibo/BolshoeSpasibo/assets/78027962/8c05293d-36ee-4e83-a825-60ef6864f282)
 ![image](https://github.com/BolshoeSpasibo/BolshoeSpasibo/assets/78027962/6f834bed-51b0-435b-8db0-5a924aec5060)
 
-# 💫About Me :
-Languages/Tools:
-PHP
-JS
-HTML
-CSS
-
-Framework:
-Yii2
-
 ## 🌐Socials
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/BolshoeSpasibo) [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/discord.gg/yablyawrxsti) 
 
